@@ -3,13 +3,13 @@
 In order to make the Horiseon website more accessible, to both developers and end users, and updated, rearranging and replacing HTML and CSS code was necessary.
 
 - The 'div' tags were reordered and replaced with HTML semantic elements: 
-  - header
-  - nav 
-  - figure 
-  - section 
-  - article
-  - aside
-  - footer
+  - header - the top-most portion of the page containing the logo and the 'nav' element
+  - nav - contains the page navigation links
+  - figure - holds the class that adds the background image
+  - section - houses the core boxes of the page that describe Horiseon's abilities
+  - article - subsets of both the 'section' and the 'aside' boxes. Refers to each individual box in the respective portions of the page. 
+  - aside - contains the information boxes about Horiseon's benefits
+  - footer - the bottom-most portion of the page and contains the copyright
  
   This provides a more sound structure to the code so future developmental tasks are assisted with ease of navigation and identification. Each of the semantic elements listed function similarly to a 'div,' but provide a greater distinction across each of the pieces of the page when viewing the code. With the addition of the semantic elements, a reordering of the code to roughly fit the layout of the page also provides quicker and more precise navigation of the code.
 
