@@ -1,4 +1,4 @@
-# homework-1-horiseon
+# Homework 1: Horiseon Homepage
 
 In order to make the Horiseon website more accessible, to both developers and end users, and to "future-proof" the website, rearranging and replacing HTML and CSS code was necessary.
 
