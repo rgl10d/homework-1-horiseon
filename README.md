@@ -1,8 +1,18 @@
 # homework-1-horiseon
 
-The code was consolidated and made more accessible to both developers and end users with the addition of semantic elements and alt attributes. 
+In order to make the Horiseon website more accessible, to both developers and end users, and to
+> future-proof
+the website, rearranging and replacing HTML and CSS code was necessary.
 
-- The 'div' tags were reordered and replaced with HTML semantic elements: 'header,' 'nav,' 'figure,' 'section,' 'article,' 'aside,' and 'footer.' This provides a more sound structure to the code so future developmental tasks are assisted with ease of navigation and identification. Each of the semantic elements listed function similarly to a 'div,' but provide a greater distinction across each of the pieces of the page when viewing the code. With the addition of the semantic elements, a reordering of the code to roughly fit the layout of the page also provides quicker and more precise navigation of the code.
+- The 'div' tags were reordered and replaced with HTML semantic elements: 
+  - header
+  - nav 
+  - figure 
+  - section 
+  - article
+  - aside
+  - footer
+ This provides a more sound structure to the code so future developmental tasks are assisted with ease of navigation and identification. Each of the semantic elements listed function similarly to a 'div,' but provide a greater distinction across each of the pieces of the page when viewing the code. With the addition of the semantic elements, a reordering of the code to roughly fit the layout of the page also provides quicker and more precise navigation of the code.
 
 - Alt attributes were added to each 'img' tag for more end user accessibility. With the alt attribute, users that are unable to view the image, because of computer, internet, or handicapped issues, can view the alt text to know what the image is of.
 
