@@ -24,7 +24,7 @@ The CSS stylesheet had many redundant classes. In order to create a more clean a
 ## License
 MIT License
 
-Copyright (c) [2020] [Garrett Lee]
+Copyright © [2020] [Garrett Lee]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
