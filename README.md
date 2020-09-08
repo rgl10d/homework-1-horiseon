@@ -1,6 +1,6 @@
 # Homework 1: Horiseon Homepage
 
-In order to make the Horiseon website more accessible, to both developers and end users, and to "future-proof" the website, rearranging and replacing HTML and CSS code was necessary.
+In order to make the Horiseon website more accessible, to both developers and end users, and updated, rearranging and replacing HTML and CSS code was necessary.
 
 - The 'div' tags were reordered and replaced with HTML semantic elements: 
   - header
