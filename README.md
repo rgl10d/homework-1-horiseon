@@ -11,7 +11,7 @@ In order to make the Horiseon website more accessible, to both developers and en
   - aside
   - footer
  
-This provides a more sound structure to the code so future developmental tasks are assisted with ease of navigation and identification. Each of the semantic elements listed function similarly to a 'div,' but provide a greater distinction across each of the pieces of the page when viewing the code. With the addition of the semantic elements, a reordering of the code to roughly fit the layout of the page also provides quicker and more precise navigation of the code.
+  This provides a more sound structure to the code so future developmental tasks are assisted with ease of navigation and identification. Each of the semantic elements listed function similarly to a 'div,' but provide a greater distinction across each of the pieces of the page when viewing the code. With the addition of the semantic elements, a reordering of the code to roughly fit the layout of the page also provides quicker and more precise navigation of the code.
 
 - Alt attributes were added to each 'img' tag for more end user accessibility. With the alt attribute, users that are unable to view the image, because of computer, internet, or handicapped issues, can view the alt text to know what the image is of.
 
